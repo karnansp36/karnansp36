@@ -72,18 +72,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/karnansp36/karnansp36/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/karnansp36/count.svg?"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
