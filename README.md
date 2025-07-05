@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Karnan%20SP&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Building+Modern+Web+Applications;💻+Full+Stack+Developer+from+India;🌟+Passionate+about+Clean+Code;⚡+React+%7C+Node.js+%7C+MongoDB" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Building+Modern+Web+Applications;💻+Full+Stack+Developer+from+India;🌟+Passionate+about+Clean+Code;⚡+React+%7C+Node.js+%7C+MongoDB" alt="Typing Animation" />
 
 <!-- PROFILE STATS -->
 <img src="https://komarev.com/ghpvc/?username=karnansp36&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&labelColor=black" alt="Profile Views" />
@@ -34,14 +34,13 @@ const karnanSP = {
   
   languages: {
     frontend: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-    backend: ["Node.js", "Python", "PHP"],
-    database: ["MongoDB", "MySQL", "PostgreSQL"]
+    backend: ["Node.js", "Python"],
+    database: ["MongoDB", "MySQL"]
   },
   
   frameworks: {
-    frontend: ["React", "Next.js", "Vue.js", "Angular"],
-    backend: ["Express.js", "Django", "FastAPI"],
-    mobile: ["React Native", "Flutter"],
+    frontend: ["React", "Next.js"],
+    backend: ["Express.js", "Django"],
     styling: ["Tailwind CSS", "Bootstrap", "Material-UI"]
   },
   
@@ -57,11 +56,11 @@ const karnanSP = {
 <td width="50%">
 
 ### 🎯 Current Focus
-- 🔨 **Building**: E-commerce web applications
-- 📱 **Developing**: Responsive mobile-first designs
-- 🛠️ **Learning**: Advanced React patterns
-- 🌐 **Exploring**: Modern web technologies
-- 💼 **Working**: Full-stack projects
+- 🔨 **Building**: MERN Stack Applications
+- 📱 **Developing**: Real-time Chat Applications
+- 🛠️ **Learning**: Advanced React and Django
+- 🌐 **Exploring**: Full-stack development patterns
+- 💼 **Working**: Property listing platforms
 
 ### 📈 Goals
 - ✅ Master modern JavaScript frameworks
@@ -81,19 +80,16 @@ const karnanSP = {
 <div align="center">
 
 ### 💻 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&theme=dark&perline=9" />
 
 ### ⚙️ **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php,laravel,java,spring&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark&perline=4" />
 
 ### 🗄️ **Databases & Cloud**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,gcp,docker,kubernetes&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&theme=dark&perline=5" />
 
 ### 🔧 **Tools & Technologies**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,webpack,vite,npm,yarn&theme=dark&perline=9" />
-
-### 📱 **Mobile Development**
-<img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,xcode&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,yarn&theme=dark&perline=7" />
 
 </div>
 
@@ -166,28 +162,28 @@ const karnanSP = {
 <tr>
 <td width="50%">
 
-**🛒 E-Commerce Platform**
-- Built with React, Node.js, MongoDB
-- Features: User authentication, payment integration, admin dashboard
-- Responsive design with modern UI/UX
+**💬 Real-time Chat Application**
+- **Tech**: MongoDB, Express.js, React, Node.js (MERN)
+- **Features**: Real-time messaging, user authentication, group chats
+- **Highlights**: Socket.io integration, responsive design
 
-**📱 Task Management App**
-- React Native mobile application
-- Real-time updates with Socket.io
-- Cross-platform compatibility
+**🏠 Property Listing Platform**
+- **Tech**: MERN Stack with JWT authentication
+- **Features**: Property search, filters, user dashboard, image uploads
+- **Highlights**: Advanced search functionality, mobile-responsive
 
 </td>
 <td width="50%">
 
-**🌐 Portfolio Website**
-- Next.js with TypeScript
-- Responsive design with Tailwind CSS
-- SEO optimized and fast loading
+**📚 Learning Management System (LMS)**
+- **Tech**: Django, Python, MySQL, Bootstrap
+- **Features**: Course management, student enrollment, progress tracking
+- **Highlights**: Admin panel, course materials upload, quiz system
 
-**🎮 Interactive Dashboard**
-- Vue.js with Chart.js integration
-- Real-time data visualization
-- Modern and intuitive interface
+**📝 Blog Management System**
+- **Tech**: Django, Python, SQLite, CSS
+- **Features**: CRUD operations, user authentication, comment system
+- **Highlights**: Rich text editor, category management
 
 </td>
 </tr>
@@ -227,21 +223,22 @@ const karnanSP = {
 
 ### 💡 Quick Facts About Me
 
-- 🌱 Always learning new technologies and best practices
-- 🎨 I enjoy creating beautiful and functional user interfaces
-- 🚀 Passionate about writing clean, maintainable code
-- 🌐 Love working on full-stack applications
-- 📚 Enjoy sharing knowledge with the developer community
-- ☕ Coffee enthusiast and coding companion!
+- 🌱 Always learning MERN stack and Django development
+- 🎨 I enjoy creating real-time applications and interactive UIs
+- 🚀 Passionate about building full-stack web applications
+- 🌐 Love working with modern JavaScript frameworks
+- 📚 Currently focused on learning management systems and chat applications
+- ☕ Coffee enthusiast and debugging expert!
 
 ### 📈 Weekly Development Breakdown
 
 ```text
-JavaScript   ████████████████████████████████████████   85%
-TypeScript   ████████████████████████████████████       80%
-React        ████████████████████████████████████████   90%
+JavaScript   ████████████████████████████████████████   90%
+React        ████████████████████████████████████████   85%
 Node.js      ███████████████████████████████████        75%
 Python       ████████████████████████████               60%
+Django       ██████████████████████████                 55%
+MongoDB      ███████████████████████████████            70%
 CSS/HTML     ████████████████████████████████████████   95%
 ```
 
@@ -253,11 +250,13 @@ CSS/HTML     ██████████████████████�
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karnansp36/karnansp36/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karnansp36/karnansp36/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/karnansp36/karnansp36/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Note: To enable the snake animation, you need to:
+1. Create a repository named 'karnansp36' (same as your username)
+2. Add a GitHub Action workflow file: .github/workflows/snake.yml
+3. The workflow will generate the snake animation SVG file
+-->
 
 </div>
 
