@@ -1,37 +1,55 @@
 <!--
-╔══════════════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════════════════════════════╗
 ║   KARNAN SP · GITHUB PROFILE README                  ║
 ║   Industrial Precision · Full Stack · AI Engineer    ║
-╚══════════════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0f172a,100:0d1117&height=160&section=header&text=KARNAN%20SP&fontSize=52&fontColor=f1f5f9&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Cloud%20Infrastructure&descSize=14&descAlignY=65&descColor=64748b&stroke=1e293b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:0ea5e9,75:06b6d4,100:22d3ee&height=220&section=header&text=KARNAN%20SP&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Cloud%20Infrastructure&descSize=18&descAlignY=65&descColor=e2e8f0" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&width=720&lines=Building+production+systems+that+scale+%E2%86%92;MERN+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+TypeScript+%C2%B7+Python;AWS+%C2%B7+Cloudflare+%C2%B7+Docker+%C2%B7+Kubernetes;AI+Platforms+%C2%B7+RAG+%C2%B7+CrewAI+%C2%B7+pgvector;Salem%2C+Tamil+Nadu%2C+India" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=22d3ee&center=true&vCenter=true&width=900&lines=Building+production+systems+that+scale+%E2%86%92;MERN+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+TypeScript+%C2%B7+Python;AWS+%C2%B7+Cloudflare+%C2%B7+Docker+%C2%B7+Kubernetes;AI+Platforms+%C2%B7+RAG+%C2%B7+CrewAI+%C2%B7+pgvector;Salem%2C+Tamil+Nadu%2C+India+%F0%9F%87%AE%F0%9F%87%B3" />
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Gmail-karnansp36%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:karnansp36@gmail.com)&ensp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a)](https://linkedin.com/in/karnan-sp-8280b9288)&ensp;
-[![GitHub](https://img.shields.io/badge/GitHub-karnansp36-f1f5f9?style=flat-square&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/karnansp36)&ensp;
-[![Views](https://komarev.com/ghpvc/?username=karnansp36&style=flat-square&color=3b82f6&labelColor=0f172a&label=Profile+Views)](https://github.com/karnansp36)&ensp;
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0f172a)](https://linkedin.com/in/karnan-sp-8280b9288)
+<div align="center">
+  <a href="mailto:karnansp36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-karnansp36%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&logoWidth=20" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/karnan-sp-8280b9288">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a&logoWidth=20" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/karnansp36">
+    <img src="https://img.shields.io/badge/GitHub-karnansp36-22d3ee?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=22d3ee&logoWidth=20" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=karnansp36&style=for-the-badge&color=22d3ee&labelColor=0a0a0a&label=Profile+Views" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Contribute-00E676?style=for-the-badge&labelColor=0a0a0a" alt="Status"/>
+</div>
 
 </div>
 
 <br/>
 
----
+<div align="center">
 
-<br/>
+```
+╭─────────────────────────────────────────────────────────────────╮
+│                          SYSTEM PROFILE                        │
+╰─────────────────────────────────────────────────────────────────╯
+```
 
-## `[ 01 ]` &nbsp; System Profile
-
-<br/>
+</div>
 
 <table width="100%">
 <tr>
@@ -42,27 +60,29 @@
  * @name    Karnan SP
  * @role    Full Stack Developer & AI Engineer
  * @base    Salem, Tamil Nadu, India 🇮🇳
+ * @status  Open to Contribute
  */
 
-const karnanSP = {
-  expertise: {
-    frontend  : ["React", "Next.js", "TypeScript", "Tailwind", Bootstrap],
-    backend   : ["Node.js", "Express", "Django", "FastAPI"],
-    databases : ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    ai        : ["CrewAI", "RAG", "pgvector"],
-    cloud     : ["AWS", "Cloudflare", "Docker"],
-    devops    : ["Nginx", "GitHub Actions", "CI/CD"],
-  },
+interface Developer {
+  readonly expertise: {
+    frontend  : ["React", "Next.js", "TypeScript", "Tailwind"];
+    backend   : ["Node.js", "Express", "Django", "FastAPI"];
+    databases : ["MongoDB", "PostgreSQL", "MySQL", "Redis"];
+    ai        : ["CrewAI", "RAG", "pgvector", "Semantic Memory"];
+    cloud     : ["AWS EC2/S3/RDS", "Cloudflare", "Docker"];
+    devops    : ["Kubernetes", "Nginx", "GitHub Actions"];
+  };
+  
+  readonly currentlyShipping: [
+    "🤖 Multi-model AI chat platforms",
+    "🏢 Multi-tenant SaaS with 4-tier RBAC", 
+    "🧠 AI microservices with semantic memory"
+  ];
+  
+  readonly motto: "Ship fast · Scale smart · Code clean ☕";
+}
 
-  currentlyShipping: [
-    "Multi-model AI chat platforms",
-    "Multi-tenant SaaS with 4-tier RBAC",
-    "AI microservices with semantic memory",
-  ],
-
-  openTo : ["Open Source"],
-  motto  : "Ship fast · Scale smart · Code clean ☕",
-} as const;
+const karnanSP: Developer = { /* ... */ };
 ```
 
 </td>
@@ -73,472 +93,356 @@ const karnanSP = {
 
 **`// Current Focus`**
 
-```
+```bash
 ◈  AI agent orchestration · CrewAI
-◈  Semantic memory · pgvector
+◈  Semantic memory · pgvector  
 ◈  Multi-tenant SaaS architecture
-◈  AWS EC2 · S3 · RDS production
-◈  Cloudflare edge · Workers · CDN
+◈  AWS production deployments
+◈  Cloudflare edge optimization
 ```
 
 <br/>
 
 **`// 2025 Shipped`**
 
-```
-✦  Pro Inventory     → Live on Vercel
-✦  aiChat            → Multi-model AI platform
-✦  Personal Manager  → FastAPI + CrewAI service
+```bash
+✦  Pro Inventory     → Live SaaS
+✦  aiChat            → AI Platform  
+✦  Personal Manager  → AI Service
 ```
 
 <br/>
 
-**`// Stack Depth`**
+**`// Proficiency Matrix`**
 
-```
-JavaScript / TypeScript   ████████████  92%
-Python / Django / FastAPI ███████████░  85%
-React / Next.js           ████████████  88%
-AWS · Docker · K8s        █████████░░░  75%
-AI / Agents / RAG         ████████░░░░  68%
+```bash
+JavaScript/TypeScript  ████████████  92%
+Python/Django/FastAPI  ███████████░  85%
+React/Next.js          ████████████  88%
+AWS/Docker/K8s         █████████░░░  75%
+AI/Agents/RAG          ████████░░░░  68%
 ```
 
 </td>
 </tr>
 </table>
-
-<br/>
-
----
-
-<br/>
-
-## `[ 02 ]` &nbsp; Tech Arsenal
 
 <br/>
 
 <div align="center">
 
-| Layer | Stack |
-|:--|:--|
-| **Frontend** | ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB) ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688) ![Celery](https://img.shields.io/badge/Celery-0d1117?style=flat-square&logo=celery&logoColor=37814A) |
-| **Data** | ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1) ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D) ![pgvector](https://img.shields.io/badge/pgvector-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1) |
-| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS_EC2·S3·RDS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900) ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=F38020) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5) ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639) |
-| **AI & Agents** | ![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=flat-square&logo=openai&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=google&logoColor=4285F4) ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white) |
-| **Tooling** | ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF) ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37) ![VSCode](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC) ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E) |
+```
+╭─────────────────────────────────────────────────────────────────╮
+│                         TECH ARSENAL                           │
+╰─────────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
-<br/>
+<div align="center">
 
----
-
-<br/>
-
-## `[ 03 ]` &nbsp; Featured Projects
-
-<br/>
-
-> Three production systems — spanning SaaS engineering, AI platform infrastructure, and intelligent agent microservices.
-
-<br/>
-
-<!--  ──────────────────────────────────────────
-      PROJECT 01  ·  PRO INVENTORY
-      ────────────────────────────────────────── -->
-
-<details open>
-<summary>
-&nbsp;
-<b>01 / Pro Inventory</b>
-&nbsp;·&nbsp;
-<em>Multi-Tenant Inventory & Sales SaaS</em>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MERN-0d1117?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/JWT_RBAC-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Live-22c55e?style=flat-square"/>
-</summary>
-
-<br/>
-
-<table width="100%">
+<table>
 <tr>
-<td width="48%" valign="top">
+<td align="center" width="20%">
 
-**Links**
+**Frontend**
 
-[![Live App](https://img.shields.io/badge/🌐_Live-pro--inventory.vercel.app-22c55e?style=flat-square&labelColor=0f172a)](https://pro-inventory.vercel.app)
-&ensp;
-[![Repo](https://img.shields.io/badge/⌥_Repo-pro__inventory-f1f5f9?style=flat-square&logo=github&labelColor=0f172a)](https://github.com/karnansp36/pro_inventory)
-
-<br/>
-
-**Architecture**
-
-```
-Frontend   React + TailwindCSS
-Backend    Node.js + Express.js
-Database   MongoDB + Mongoose
-Auth       JWT + 4-Tier RBAC
-Commits    130+ | Language JS 100%
-```
-
-<br/>
-
-**Role Hierarchy**
-
-| Role | Scope |
-|:--|:--|
-| 👑 **Admin** | Global — all users, all data |
-| 🏢 **Brand Owner** | Own branches · stock approval |
-| 👨‍💼 **Manager** | Read-only supervisory view |
-| 🏪 **Branch Owner** | Daily ops — sales & requests |
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 </td>
-<td width="4%"></td>
-<td width="48%" valign="top">
+<td align="center" width="20%">
 
-**Core Modules**
+**Backend**
 
-```
-◈  Sales Engine
-   Cash · GPay · Credit Card
-   Auto-totals · daily summaries
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=009688)
 
-◈  Stock Workflow
-   3-priority request system
-   Approval chain → transport
+</td>
+<td align="center" width="20%">
 
-◈  Transport Tracking
-   Dispatch → receipt confirmation
-   Quantity mismatch detection
+**Data**
 
-◈  Reporting Suite
-   PDF · Excel · CSV export
-   Role-scoped data isolation
-   Full profit & loss analysis
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=DC382D)
+![pgvector](https://img.shields.io/badge/pgvector-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-◈  Audit Layer
-   Activity log per user
-   IP · timestamp · action trail
-```
+</td>
+<td align="center" width="20%">
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/K8s-0a0a0a?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0a0a0a?style=flat-square&logo=cloudflare&logoColor=F38020)
+
+</td>
+<td align="center" width="20%">
+
+**AI/ML**
+
+![CrewAI](https://img.shields.io/badge/CrewAI-0a0a0a?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0a?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-0a0a0a?style=flat-square&logo=google&logoColor=4285F4)
+![Ollama](https://img.shields.io/badge/Ollama-0a0a0a?style=flat-square&logo=ollama&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-</details>
-
-<br/>
-
-<!--  ──────────────────────────────────────────
-      PROJECT 02  ·  AI CHAT
-      ────────────────────────────────────────── -->
-
-<details open>
-<summary>
-&nbsp;
-<b>02 / aiChat</b>
-&nbsp;·&nbsp;
-<em>Self-Hosted Multi-Model AI Platform</em>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Docker_·_Helm_·_K8s-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D"/>
-</summary>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="48%" valign="top">
-
-**Links**
-
-[![Repo](https://img.shields.io/badge/⌥_Repo-aiChat-f1f5f9?style=flat-square&logo=github&labelColor=0f172a)](https://github.com/karnansp36/aiChat)
-
-<br/>
-
-**Stack**
-
-```
-Frontend   React + TypeScript (monorepo)
-Backend    Node.js + WebSocket API
-Runtime    Bun
-Cache      Redis
-Infra      Docker Compose · Helm
-Deploy     Kubernetes cluster
-CI/CD      GitHub Actions + Husky
-Language   TypeScript 64% · JS 34%
-```
-
-<br/>
-
-**Supported Models**
-
-```
-☁  Cloud    Claude · GPT-4o · Gemini
-            AWS Bedrock · Azure · Vertex AI
-
-🏠  Local   Ollama · Apple MLX · koboldcpp
-
-🔀  API     Groq · Mistral · Cohere
-            Deepseek · Perplexity · Qwen
-            OpenRouter + 10 more
-```
-
-</td>
-<td width="4%"></td>
-<td width="48%" valign="top">
-
-**Platform Features**
-
-```
-◈  AI Agents
-   No-code custom assistants
-   MCP (Model Context Protocol)
-   Agent marketplace + sharing
-
-◈  RAG + Web Search
-   pgvector semantic retrieval
-   Jina reranking pipeline
-
-◈  Code Interpreter
-   Sandboxed runtime execution
-   Python · Node.js · Go · Rust
-   C++ · Java · Fortran
-
-◈  Image Generation & Edit
-   DALL-E 3 · Stable Diffusion
-   Flux · GPT-Image-1
-
-◈  Generative UI
-   React · HTML · Mermaid artifacts
-   Live in-chat rendering
-
-◈  Enterprise Auth
-   OAuth2 · LDAP · Email login
-   Multi-user · moderation · quotas
-
-◈  Multilingual
-   30+ languages — 中文 · 日本語
-   العربية · Русский · Français
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-</details>
-
-<br/>
-
-<!--  ──────────────────────────────────────────
-      PROJECT 03  ·  PERSONAL MANAGER AI
-      ────────────────────────────────────────── -->
-
-<details open>
-<summary>
-&nbsp;
-<b>03 / Personal Manager AI</b>
-&nbsp;·&nbsp;
-<em>AI Microservice with Memory & Task Intelligence</em>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/CrewAI_·_pgvector-0d1117?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Celery_·_Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D"/>
-</summary>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="48%" valign="top">
-
-**Links**
-
-[![Repo](https://img.shields.io/badge/⌥_Repo-fast__api-f1f5f9?style=flat-square&logo=github&labelColor=0f172a)](https://github.com/karnansp36/fast_api)
-
-<br/>
-
-**Stack**
-
-```
-Framework   FastAPI + Python
-AI Engine   CrewAI · Agents · Tools
-Database    PostgreSQL + pgvector
-Cache       Redis (broker + backend)
-Workers     Celery async queue
-Comms       WebSocket (real-time)
-Migrations  Alembic
-LLMs        Gemini · OpenAI · Ollama
-Language    Python 99%
-```
-
-</td>
-<td width="4%"></td>
-<td width="48%" valign="top">
-
-**AI Capabilities**
-
-```
-◈  Semantic Memory
-   pgvector embeddings
-   Retrieve memories by meaning
-
-◈  Natural Language Scheduling
-   "Call mom at 10 AM tomorrow"
-   → parsed → queued via Celery
-
-◈  Empathetic Conversation
-   CrewAI Personal Manager Agent
-   Warm, context-aware personality
-
-◈  Real-time WebSocket Chat
-   Live bidirectional AI sessions
-
-◈  Async Task Engine
-   Heavy AI tasks → workers
-   Redis broker · Celery consumers
-
-◈  Multi-LLM Orchestration
-   Intent detection → agent routing
-   Hot-swap via .env config
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-## `[ 04 ]` &nbsp; GitHub Analytics
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karnansp36&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f1f5f9&icon_color=3b82f6&text_color=64748b&include_all_commits=true&rank_icon=percentile&custom_title=Activity+Overview" height="172" />
-&ensp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karnansp36&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3b82f6&fire=f59e0b&currStreakLabel=f1f5f9&sideNums=64748b&currStreakNum=f1f5f9&dates=334155&sideLabels=64748b&stroke=1e293b" height="172" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnansp36&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f1f5f9&text_color=64748b&layout=compact&langs_count=10&custom_title=Language+Distribution" height="148" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karnansp36&theme=github-compact&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=f1f5f9&area=true&area_color=1e3a5f" />
+```
+╭─────────────────────────────────────────────────────────────────╮
+│                      FEATURED PROJECTS                         │
+╰─────────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
-<br/>
+<div align="center">
 
----
+<table width="100%">
+<tr>
+<td width="33%" align="center">
 
-<br/>
+### 🏢 Pro Inventory
+**Multi-Tenant SaaS**
 
-## `[ 05 ]` &nbsp; Achievements
+[![Live](https://img.shields.io/badge/🌐_Live-22C55E?style=for-the-badge&labelColor=0a0a0a)](https://pro-inventory.vercel.app)
+[![Code](https://img.shields.io/badge/⌥_Code-22d3ee?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/karnansp36/pro_inventory)
+
+```
+MERN Stack
+JWT + 4-Tier RBAC
+Multi-payment Engine
+Real-time Analytics
+```
+
+**Features:** Sales automation, inventory management, role-based access, audit trails
+
+</td>
+<td width="33%" align="center">
+
+### 🤖 aiChat
+**AI Platform**
+
+[![Code](https://img.shields.io/badge/⌥_Code-22d3ee?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/karnansp36/aiChat)
+![TypeScript](https://img.shields.io/badge/TS_64%25-3178C6?style=for-the-badge&labelColor=0a0a0a)
+
+```
+React + TypeScript
+Multi-model Support
+RAG + pgvector
+Kubernetes Ready
+```
+
+**Features:** AI agents, code interpreter, generative UI, enterprise auth
+
+</td>
+<td width="33%" align="center">
+
+### 🧠 Personal Manager
+**AI Microservice**
+
+[![Code](https://img.shields.io/badge/⌥_Code-22d3ee?style=for-the-badge&logo=github&labelColor=0a0a0a)](https://github.com/karnansp36/fast_api)
+![Python](https://img.shields.io/badge/PY_99%25-3776AB?style=for-the-badge&labelColor=0a0a0a)
+
+```
+FastAPI + CrewAI
+Semantic Memory
+WebSocket Real-time
+Celery Workers
+```
+
+**Features:** Natural language scheduling, empathetic AI, multi-LLM orchestration
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karnansp36&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+```
+╭─────────────────────────────────────────────────────────────────╮
+│                      GITHUB ANALYTICS                          │
+╰─────────────────────────────────────────────────────────────────╯
+```
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnansp36&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=karnansp36&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a8b2d1&include_all_commits=true&rank_icon=percentile&custom_title=📊%20Statistics" height="165" />
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karnansp36&theme=github-dark-blue&hide_border=true&background=0a0a0a&ring=22d3ee&fire=FF6B6B&currStreakLabel=22d3ee&sideNums=a8b2d1&currStreakNum=22d3ee&dates=6c7293&sideLabels=a8b2d1&stroke=0f172a" height="165" />
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnansp36&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&text_color=a8b2d1&layout=compact&langs_count=8&custom_title=💻%20Languages" height="165" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karnansp36&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=0f172a&title_color=22d3ee&custom_title=📈%20Contribution%20Graph" width="100%" />
 
 </div>
 
 <br/>
 
----
+<div align="center">
 
-<br/>
+```
+╭─────────────────────────────────────────────────────────────────╮
+│                    CONTRIBUTION SNAKE                          │
+╰─────────────────────────────────────────────────────────────────╯
+```
 
-## `[ 06 ]` &nbsp; Contribution Graph
-
-<br/>
+</div>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake"
-    src="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake-dark.svg"
-    width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
 <br/>
 
-<details>
-<summary>&nbsp;<b>⚙ Enable Snake Animation</b></summary>
+<div align="center">
 
-<br/>
-
-Add `.github/workflows/snake.yml` to your `karnansp36` profile repo:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+╭─────────────────────────────────────────────────────────────────╮
+│                       CURRENT FOCUS                            │
+╰─────────────────────────────────────────────────────────────────╯
 ```
 
-</details>
+</div>
 
-<br/>
+<div align="center">
 
----
+```mermaid
+graph TD
+    A[🚀 Active Development] --> B[🤖 AI Platform]
+    A --> C[🏢 SaaS Architecture] 
+    A --> D[🧠 AI Microservices]
+    
+    B --> B1[Multi-model Integration]
+    B --> B2[RAG + pgvector]
+    B --> B3[Kubernetes Deployment]
+    
+    C --> C1[4-tier RBAC]
+    C --> C2[Real-time Analytics]
+    C --> C3[Multi-tenant Design]
+    
+    D --> D1[CrewAI Agents]
+    D --> D2[Semantic Memory]
+    D --> D3[FastAPI Services]
+    
+    style A fill:#22d3ee,stroke:#22d3ee,stroke-width:3px,color:#0a0a0a
+    style B fill:#FF6B6B,stroke:#FF6B6B,stroke-width:2px,color:#fff
+    style C fill:#4ECDC4,stroke:#4ECDC4,stroke-width:2px,color:#fff
+    style D fill:#45B7D1,stroke:#45B7D1,stroke-width:2px,color:#fff
+```
+
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:0d1117&height=120&section=footer&text=Open%20to%20work%20%C2%B7%20Let%27s%20build%20something%20exceptional&fontSize=14&fontColor=475569&animation=fadeIn&fontAlignY=65" width="100%"/>
+```
+╭─────────────────────────────────────────────────────────────────╮
+│                        CONNECT                                 │
+╰─────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<div align="center">
+
+<table width="80%">
+<tr>
+<td align="center" width="33%">
+
+💼 **Professional**
+
+Opportunities & Collaboration
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/karnan-sp-8280b9288)
+
+</td>
+<td align="center" width="33%">
+
+📧 **Direct Contact**
+
+Project Discussions
+
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:karnansp36@gmail.com)
+
+</td>
+<td align="center" width="33%">
+
+💻 **Open Source**
+
+Latest Code & Contributions
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-22d3ee?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=22d3ee)](https://github.com/karnansp36)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=karnansp36&style=flat-square&color=334155&labelColor=0d1117&label=total+profile+views" />
+### 🤝 Open to Contribute
+
+Actively contributing to open-source projects in **AI/ML Tooling**, **Developer Frameworks**, and **Cloud-Native Infrastructure**.
+
+**Contribution Areas:** AI Agent Frameworks • Full Stack SaaS Templates • DevOps Automation • Open Source Libraries
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:0ea5e9,75:06b6d4,100:22d3ee&height=120&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20exceptional%20🚀&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=karnansp36&style=for-the-badge&color=22d3ee&labelColor=0a0a0a&label=Total+Profile+Views" />
+
+<br/><br/>
+
+**⭐ If you find my work interesting, consider starring my repositories!**
 
 </div>
